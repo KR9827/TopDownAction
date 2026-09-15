@@ -4,12 +4,12 @@
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <b>AA</b><br>
-      <img src="" alt="AA" width="100%">
+      <b>ギミック</b><br>
+      <img src="gif/Gimmick.gif" alt="ギミック" width="100%">
     </td>
     <td align="center" width="50%">
-      <b>AA</b><br>
-      <img src="" alt="AA" width="100%">
+      <b>ボスの攻撃</b><br>
+      <img src="gif/Boss.gif" alt="ボスの攻撃" width="100%">
     </td>
   </tr>
 </table>
